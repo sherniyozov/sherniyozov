@@ -1,16 +1,22 @@
-## Hi there 👋
+# sherniyozov
+<h1 align="center">Hi 👋 I'm sherniyozov</h1>
 
-<!--
-**sherniyozov/sherniyozov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Web Developer <br>
+🚀 Python | Django | HTML | CSS
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a1d04ea2-bff6-4d17-9274-2336709140e8/BB092-thumbnail.gif?t=1766008357" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://youtube.com">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://t.me">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
+</a>
+</p>
+
