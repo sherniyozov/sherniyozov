@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a1d04ea2-bff6-4d17-9274-2336709140e8/BB092-thumbnail.gif?t=6" width="400">
+<img src="6" width="400">
 </p>
 
 <p align="center">
